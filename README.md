@@ -19,4 +19,4 @@
 * User can see current Wind Speed in km/h with wind direction (0 deg at North).
 * Added Responsiveness across all devices.
 
-* ### **<a href="https://weather-app.vercel.app/" target="_blank">Live Link :rocket:</a>**
+* ### **<a href="https://weather-app-2irbiuaq9-nasim-tajs-projects.vercel.app" target="_blank">Live Link :rocket:</a>**
